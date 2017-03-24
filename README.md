@@ -6,9 +6,13 @@ CLSlider for iOS
 ---
 
 外观样式:
-CLSliderStyle_Nomal.
-CLSliderStyle_Cross.
+
+CLSliderStyle_Nomal
+
+CLSliderStyle_Cross
+
 CLSliderStyle_Point.
+
 ![](https://github.com/chuliangliang/CLSlider/blob/master/slider-demo.png)
 
 
