@@ -1,0 +1,17 @@
+/* 
+  ReadMe.strings
+
+  Created by chuliangliang on 2017/3/15.
+  Copyright © 2017年 chuliangliang. All rights reserved.
+
+/**
+ * 说明: 
+ *      自定义滑竿视图 带有刻度的滑竿 继承自UIControl 内置三种样式可选 触摸结束时滑块会自动吸附到最靠近的刻度上, 本工程只用作技术讨论和交流上请勿商用谢谢 哪里有问题可以向我砸砖 欢迎大家的砖头 (*^__^*)
+ * 版本: 
+ *      V1.0
+ * 反馈及联系方式:
+ *          QQ:949977202
+ *          Email : chuliangliang300@sina.com
+ * 更多资源 : http://chuliangliang.github.io
+            http://blog.csdn.net/u011205774 (本博客 收录了一些cocos2dx 简单介绍 和使用实例)
+ **/
