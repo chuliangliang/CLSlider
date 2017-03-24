@@ -5,11 +5,10 @@ CLSlider for iOS
 自定义带刻度的滑杆视图 继承自UIControl
 ---
 
-1.外观
-CLSliderStyle_Nomal 
-CLSliderStyle_Cross
-CLSliderStyle_Point
-
+外观样式:
+CLSliderStyle_Nomal.
+CLSliderStyle_Cross.
+CLSliderStyle_Point.
 ![](https://github.com/chuliangliang/CLSlider/blob/master/slider-demo.png)
 
 
